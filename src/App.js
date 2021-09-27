@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Meu primeiro deploy heroku!
+      Sempre pegue o link <strong>.com</strong> não <i>.git</i>
     </div>
   );
 }
